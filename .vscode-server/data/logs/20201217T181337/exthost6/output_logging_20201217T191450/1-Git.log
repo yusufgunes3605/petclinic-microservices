@@ -126,3 +126,19 @@ Open repository: /home/ec2-user
 > git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
 > git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
 > git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
