@@ -1,0 +1,24 @@
+Error 2020-12-16 20:50:51: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+aws-server_2/home/ec2-user/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/ec2-user/.config/Code/User/settings.json')
+	at _handleError (/home/ec2-user/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/out/vs/server/remoteExtensionHostProcess.js:769:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async m.readFile (/home/ec2-user/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:832552)
+	at async g.fixSettingsFile (/home/ec2-user/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:288845)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/home/ec2-user/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:290565)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Error 2020-12-16 20:50:51: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+aws-server_2/home/ec2-user/.vscode/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/ec2-user/.vscode/settings.json')
+	at _handleError (/home/ec2-user/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/out/vs/server/remoteExtensionHostProcess.js:769:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async m.readFile (/home/ec2-user/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:832552)
+	at async g.fixSettingsFile (/home/ec2-user/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:288845)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/ec2-user/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:290565)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+> /usr/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"

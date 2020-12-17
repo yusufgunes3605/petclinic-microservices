@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:15 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232275070
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232275059
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.sun.jersey.contribs\:jersey-apache-client4\:pom\:1.19.1 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/com/sun/jersey/contribs/jersey-apache-client4/1.19.1/jersey-apache-client4-1.19.1.pom , ReasonPhrase\:Forbidden.

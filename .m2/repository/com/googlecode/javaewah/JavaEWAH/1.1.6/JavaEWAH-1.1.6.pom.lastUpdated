@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:12:30 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232350025
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232350005
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.googlecode.javaewah\:JavaEWAH\:pom\:1.1.6 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.pom , ReasonPhrase\:Forbidden.

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:12:04 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232324457
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232320554
+http\://repo.spring.io/milestone/.error=Could not transfer artifact net.bytebuddy\:byte-buddy-agent\:jar\:1.9.5 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/net/bytebuddy/byte-buddy-agent/1.9.5/byte-buddy-agent-1.9.5.jar , ReasonPhrase\:Forbidden.

@@ -1,0 +1,275 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 41499
+
+[18:13:37] Extension host agent started.
+[18:13:41] [127.0.0.1][01820f82][ManagementConnection] New connection established.
+[18:13:41] [127.0.0.1][cfcf3c27][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[18:13:41] [127.0.0.1][cfcf3c27][ExtensionHostConnection] <3398> Launched Extension Host Process.
+[18:13:42] Listing 0 persistent terminals, 0 total terminals
+[18:14:18] [127.0.0.1][01820f82][ManagementConnection] The client has reconnected.
+[18:14:19] [127.0.0.1][cfcf3c27][ExtensionHostConnection] The client has reconnected.
+[18:14:57] [127.0.0.1][cfcf3c27][ExtensionHostConnection] The client has reconnected.
+[18:14:58] [127.0.0.1][01820f82][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:14:59] [127.0.0.1][cfcf3c27][ExtensionHostConnection] <3398> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[18:14:59] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[18:16:04] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[18:16:04] Cancelling previous shutdown timeout
+[18:16:05] [127.0.0.1][e49efd6d][ManagementConnection] New connection established.
+[18:16:05] [127.0.0.1][6499f310][ExtensionHostConnection] New connection established.
+[18:16:05] [127.0.0.1][6499f310][ExtensionHostConnection] <3605> Launched Extension Host Process.
+[18:16:05] Listing 1 persistent terminals, 1 total terminals
+[18:16:45] [127.0.0.1][6499f310][ExtensionHostConnection] The client has reconnected.
+New EH opened, aborting shutdown
+[18:21:04] New EH opened, aborting shutdown
+[18:21:05] The short reconnection grace time of 5m has expired, so the terminal process with pid 3493 will be shutdown.
+[18:23:45] [127.0.0.1][e49efd6d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:23:46] [127.0.0.1][6499f310][ExtensionHostConnection] <3605> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[18:23:46] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[18:24:04] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[18:24:04] Cancelling previous shutdown timeout
+[18:24:04] [127.0.0.1][083045a0][ExtensionHostConnection] New connection established.
+[18:24:04] [127.0.0.1][083045a0][ExtensionHostConnection] <9251> Launched Extension Host Process.
+[18:24:04] [127.0.0.1][43814353][ManagementConnection] New connection established.
+[18:24:05] Listing 1 persistent terminals, 1 total terminals
+[18:24:05] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ec2-user/.vscode'
+[18:24:36] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+New EH opened, aborting shutdown
+[18:29:04] New EH opened, aborting shutdown
+[18:29:05] The short reconnection grace time of 5m has expired, so the terminal process with pid 3628 will be shutdown.
+[18:41:50] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[18:42:21] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[18:43:17] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[18:43:54] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[18:44:41] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[18:45:45] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[18:45:59] [127.0.0.1][083045a0][ExtensionHostConnection] <9251> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[18:45:59] Last EH closed, waiting before shutting down
+[18:46:01] [127.0.0.1][43814353][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/out/bootstrap.js:5:614)
+    at process.emit (events.js:223:5)
+Got delay-shutdown request while in shutdown timeout, delaying
+[18:46:52] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[18:46:52] Cancelling previous shutdown timeout
+[18:46:53] [127.0.0.1][43814353][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[18:46:53] [127.0.0.1][d9ee8464][ManagementConnection] New connection established.
+[18:46:53] [127.0.0.1][25c16ed2][ExtensionHostConnection] New connection established.
+[18:46:53] [127.0.0.1][25c16ed2][ExtensionHostConnection] <11782> Launched Extension Host Process.
+[18:46:53] Listing 1 persistent terminals, 1 total terminals
+[18:47:24] [127.0.0.1][25c16ed2][ExtensionHostConnection] The client has reconnected.
+[18:47:27] [127.0.0.1][d9ee8464][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:47:28] [127.0.0.1][25c16ed2][ExtensionHostConnection] <11782> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[18:47:28] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[18:47:28] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[18:47:38] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[18:47:38] Cancelling previous shutdown timeout
+[18:47:39] [127.0.0.1][09cae8a8][ManagementConnection] New connection established.
+[18:47:39] [127.0.0.1][4362a0d2][ExtensionHostConnection] New connection established.
+[18:47:39] [127.0.0.1][4362a0d2][ExtensionHostConnection] <11892> Launched Extension Host Process.
+[18:47:39] Listing 1 persistent terminals, 1 total terminals
+[18:47:39] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ec2-user/.vscode'
+[18:47:40] Replaying 46279 chars and 1 size events.
+[18:48:16] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[18:48:56] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[18:49:26] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[18:50:03] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[18:50:38] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[18:51:13] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[18:51:53] [127.0.0.1][43814353][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[18:52:07] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+New EH opened, aborting shutdown
+[18:52:38] New EH opened, aborting shutdown
+[19:01:37] [127.0.0.1][09cae8a8][ManagementConnection] The client has reconnected.
+[19:01:37] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:02:05] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:02:33] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:03:01] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:03:29] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:03:59] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:04:27] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:04:56] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:05:27] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:05:55] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:06:24] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:06:53] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:07:22] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:07:50] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:08:19] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:08:48] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:09:16] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:09:45] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:10:13] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:10:41] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:11:11] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:11:45] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[19:13:53] [127.0.0.1][4362a0d2][ExtensionHostConnection] <11892> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[19:13:53] Last EH closed, waiting before shutting down
+[19:13:58] [127.0.0.1][09cae8a8][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/out/bootstrap.js:5:614)
+    at process.emit (events.js:223:5)
+Got delay-shutdown request while in shutdown timeout, delaying
+[19:14:01] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[19:14:01] Cancelling previous shutdown timeout
+[19:14:03] [127.0.0.1][09cae8a8][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[19:14:03] [127.0.0.1][d5c7f76b][ManagementConnection] New connection established.
+[19:14:03] [127.0.0.1][12305830][ExtensionHostConnection] New connection established.
+[19:14:03] [127.0.0.1][12305830][ExtensionHostConnection] <16647> Launched Extension Host Process.
+[19:14:03] Listing 3 persistent terminals, 3 total terminals
+[19:14:03] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ec2-user/.vscode'
+[19:14:04] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[19:14:13] Replaying 46317 chars and 1 size events.
+[19:14:13] Replaying 2384 chars and 1 size events.
+[19:14:13] Replaying 1048576 chars and 1 size events.
+[19:14:48] [127.0.0.1][12305830][ExtensionHostConnection] The client has reconnected.
+[19:15:51] [127.0.0.1][12305830][ExtensionHostConnection] The client has reconnected.
+New EH opened, aborting shutdown
+[19:19:01] New EH opened, aborting shutdown
+[19:19:03] [127.0.0.1][09cae8a8][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[19:26:40] Installing extension: vscjava.vscode-java-pack
+[19:26:41] Downloaded extension: vscjava.vscode-java-pack undefined
+[19:26:41] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-java-pack-0.12.1: vscjava.vscode-java-pack
+[19:26:41] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-pack-0.12.1
+[19:26:41] Installation completed. vscjava.vscode-java-pack
+[19:26:41] Installing extension: visualstudioexptteam.vscodeintellicode
+[19:26:41] Installing extension: redhat.java
+[19:26:41] Installing extension: vscjava.vscode-java-debug
+[19:26:41] Installing extension: vscjava.vscode-maven
+[19:26:41] Installing extension: vscjava.vscode-java-test
+[19:26:41] Installing extension: vscjava.vscode-java-dependency
+[19:26:41] Downloaded extension: vscjava.vscode-java-debug undefined
+[19:26:41] Downloaded extension: vscjava.vscode-java-dependency undefined
+[19:26:41] Downloaded extension: vscjava.vscode-java-test undefined
+[19:26:41] Downloaded extension: vscjava.vscode-maven undefined
+[19:26:41] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-java-dependency-0.16.0: vscjava.vscode-java-dependency
+[19:26:41] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-dependency-0.16.0
+[19:26:41] Installation completed. vscjava.vscode-java-dependency
+[19:26:41] Extensions installed successfully: vscjava.vscode-java-dependency
+[19:26:42] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-java-debug-0.30.0: vscjava.vscode-java-debug
+[19:26:42] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-debug-0.30.0
+[19:26:42] Installation completed. vscjava.vscode-java-debug
+[19:26:42] Extensions installed successfully: vscjava.vscode-java-debug
+[19:26:42] Downloaded extension: visualstudioexptteam.vscodeintellicode undefined
+[19:26:42] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-java-test-0.26.1: vscjava.vscode-java-test
+[19:26:42] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1
+[19:26:42] Installation completed. vscjava.vscode-java-test
+[19:26:42] Downloaded extension: redhat.java undefined
+[19:26:42] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-maven-0.27.0: vscjava.vscode-maven
+[19:26:42] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-maven-0.27.0
+[19:26:42] Installation completed. vscjava.vscode-maven
+[19:26:42] Extensions installed successfully: vscjava.vscode-maven
+[19:26:43] Extracted extension to /home/ec2-user/.vscode-server/extensions/.visualstudioexptteam.vscodeintellicode-1.2.10: visualstudioexptteam.vscodeintellicode
+[19:26:43] Renamed to /home/ec2-user/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.10
+[19:26:43] Installation completed. visualstudioexptteam.vscodeintellicode
+[19:26:43] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[19:26:43] Extracted extension to /home/ec2-user/.vscode-server/extensions/.redhat.java-0.72.0: redhat.java
+[19:26:43] Renamed to /home/ec2-user/.vscode-server/extensions/redhat.java-0.72.0
+[19:26:43] Installation completed. redhat.java
+[19:26:43] Extensions installed successfully: redhat.java
+[19:26:43] Extensions installed successfully: vscjava.vscode-java-test
+[19:26:43] Extensions installed successfully: vscjava.vscode-java-pack
+EXTHOST-STDOUT::::::::{
+  message: 'Starting Java server with: /usr/lib/jvm/java-11-amazon-corretto.x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ec2-user/.vscode-server/extensions/redhat.java-0.72.0/server/plugins/org.eclipse.equinox.launcher_1.6.0.v20200915-1508.jar -configuration /home/ec2-user/.vscode-server/data/User/globalStorage/redhat.java/0.72.0/config_ss_linux -data /home/ec2-user/.vscode-server/data/User/workspaceStorage/f50b54075f60da9eb78d7cc8e0cd9e03/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2020-12-17 19:27:05.489'
+}
+
+EXTHOST-STDOUT::::::::{
+  message: '[Error - 7:27:08 PM] Dec 17, 2020, 7:27:08 PM Failed to create invisible project\n' +
+    "Failed to create linked resource from '/home/ec2-user' to the invisible project 'ec2-user_7ac67605'.\n" +
+    "org.eclipse.core.runtime.CoreException: Failed to create linked resource from '/home/ec2-user' to the invisible project 'ec2-user_7ac67605'.\n" +
+    '\tat org.eclipse.jdt.ls.core.internal.ProjectUtils.createInvisibleProjectIfNotExist(ProjectUtils.java:299)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.syntaxserver.SyntaxDocumentLifeCycleHandler.tryUpdateClasspath(SyntaxDocumentLifeCycleHandler.java:104)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.syntaxserver.SyntaxDocumentLifeCycleHandler.resolveCompilationUnit(SyntaxDocumentLifeCycleHandler.java:88)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleOpen(BaseDocumentLifeCycleHandler.java:326)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$5.run(BaseDocumentLifeCycleHandler.java:287)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)\n' +
+    '\tat org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didOpen(BaseDocumentLifeCycleHandler.java:284)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.syntaxserver.SyntaxLanguageServer.didOpen(SyntaxLanguageServer.java:250)\n' +
+    '\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n' +
+    '\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n' +
+    '\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n' +
+    '\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)\n' +
+    '\tat java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)\n' +
+    '\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n' +
+    '\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n' +
+    '\tat java.base/java.lang.Thread.run(Thread.java:829)\n' +
+    "Caused by: org.eclipse.core.internal.resources.ResourceException: '/home/ec2-user' is not a valid location for linked resources.\n" +
+    '\tat org.eclipse.core.internal.resources.Resource.assertLinkRequirements(Resource.java:170)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.createLink(Resource.java:636)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.ProjectUtils.createInvisibleProjectIfNotExist(ProjectUtils.java:296)\n' +
+    '\t... 25 more\n',
+  level: 'info',
+  timestamp: '2020-12-17 19:27:08.644'
+}
+
+EXTHOST-STDOUT::::::::{
+  message: 'Starting Java server with: /usr/lib/jvm/java-11-amazon-corretto.x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar /home/ec2-user/.vscode-server/extensions/redhat.java-0.72.0/server/plugins/org.eclipse.equinox.launcher_1.6.0.v20200915-1508.jar -configuration /home/ec2-user/.vscode-server/data/User/globalStorage/redhat.java/0.72.0/config_linux -data /home/ec2-user/.vscode-server/data/User/workspaceStorage/f50b54075f60da9eb78d7cc8e0cd9e03/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2020-12-17 19:27:14.794'
+}
+
+EXTHOST-STDOUT::::::::{
+  message: '[Error - 7:27:23 PM] Dec 17, 2020, 7:27:23 PM Initialization failed \n' +
+    'Invalid project description.\n' +
+    'org.eclipse.core.internal.resources.ResourceException: Invalid project description.\n' +
+    '\tat org.eclipse.core.internal.resources.Project.checkDescription(Project.java:173)\n' +
+    '\tat org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:57)\n' +
+    '\tat org.eclipse.core.internal.resources.Project.create(Project.java:266)\n' +
+    '\tat org.eclipse.core.internal.resources.Project.create(Project.java:252)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:998)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$0(ProjectConfigurationManager.java:163)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)\n' +
+    '\tat org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:146)\n' +
+    '\tat org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:136)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:228)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:115)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:104)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:195)\n' +
+    '\tat org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Contains: OK\n' +
+    'Contains: /home/ec2-user overlaps the workspace location: /home/ec2-user/.vscode-server/data/User/workspaceStorage/f50b54075f60da9eb78d7cc8e0cd9e03/redhat.java/jdt_ws\n',
+  level: 'info',
+  timestamp: '2020-12-17 19:27:23.317'
+}
+
+[19:28:34] [127.0.0.1][d5c7f76b][ManagementConnection] The client has reconnected.
+[19:28:46] [127.0.0.1][12305830][ExtensionHostConnection] The client has reconnected.

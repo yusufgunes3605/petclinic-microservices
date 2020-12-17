@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:12:39 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232359135
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232359128
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.fasterxml.woodstox\:woodstox-core\:pom\:5.0.3 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/com/fasterxml/woodstox/woodstox-core/5.0.3/woodstox-core-5.0.3.pom , ReasonPhrase\:Forbidden.

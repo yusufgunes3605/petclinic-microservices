@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:57 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232317922
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232317909
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.ow2.asm\:asm-parent\:pom\:5.0.4 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom , ReasonPhrase\:Forbidden.

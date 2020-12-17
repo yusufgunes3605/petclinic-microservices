@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:12:04 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232324418
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232320540
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.jboss\:jandex\:jar\:2.0.5.Final from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar , ReasonPhrase\:Forbidden.

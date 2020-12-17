@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:10 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232270848
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232270830
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.7.25 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom , ReasonPhrase\:Forbidden.

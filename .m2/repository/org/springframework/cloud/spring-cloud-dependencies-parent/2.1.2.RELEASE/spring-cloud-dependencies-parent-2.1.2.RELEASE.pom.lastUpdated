@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:04 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232264725
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232264675
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-dependencies-parent\:pom\:2.1.2.RELEASE from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.2.RELEASE/spring-cloud-dependencies-parent-2.1.2.RELEASE.pom , ReasonPhrase\:Forbidden.

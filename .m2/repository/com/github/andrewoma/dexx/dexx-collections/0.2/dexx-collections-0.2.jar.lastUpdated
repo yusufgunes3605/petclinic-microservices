@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:29 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232289431
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232280867
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.github.andrewoma.dexx\:dexx-collections\:jar\:0.2 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2.jar , ReasonPhrase\:Forbidden.

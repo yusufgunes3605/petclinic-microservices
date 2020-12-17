@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:06 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232266352
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232266225
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1608232266291
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.google.cloud\:google-cloud-bom\:pom\:0.77.0-alpha from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom , ReasonPhrase\:Forbidden.
+https\://repo.spring.io/release/.lastUpdated=1608232266335
+https\://repo.spring.io/release/.error=

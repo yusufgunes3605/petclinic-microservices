@@ -1,0 +1,6 @@
+The configuration 'editor.suggestSelection' will be set to 'first' since the default value 'recentlyUsed' may cause you to not see IntelliCode completions.
+You can configure this behavior with the setting 'vsintellicode.modify.editor.suggestSelection'.
+We were unable to change 'editor.suggestSelection' to first, and encountered the following error:
+Error Message: Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again., (Error)
+There was an error updating the configuration 'vsintellicode.modify.editor.suggestSelection': 'automaticallyOverrodeDefaultValue'. Please update it manually. The following error was encountered:
+Error Message: Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again., (Error)

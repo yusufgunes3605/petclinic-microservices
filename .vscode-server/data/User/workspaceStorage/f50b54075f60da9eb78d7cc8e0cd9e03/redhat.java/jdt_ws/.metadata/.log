@@ -1,0 +1,259 @@
+!SESSION 2020-12-17 19:27:15.383 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.9.1
+java.vendor=Amazon.com Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/ec2-user/.vscode-server/data/User/workspaceStorage/f50b54075f60da9eb78d7cc8e0cd9e03/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.128
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.668
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.743
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.758
+!MESSAGE Initializing Java Language Server 0.66.0.202012031507
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.852
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/com.microsoft.jdtls.intellicode.core-0.4.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.854
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-debug-0.30.0/server/com.microsoft.java.debug.plugin-0.29.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.859
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-dependency-0.16.0/server/com.microsoft.jdtls.ext.core-0.16.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.862
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/com.microsoft.java.test.plugin-0.26.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.866
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.eclipse.jdt.junit4.runtime_1.1.1200.v20200214-0716.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.869
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.eclipse.jdt.junit5.runtime_1.0.900.v20200513-0617.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.871
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.jupiter.api_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.876
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.jupiter.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.880
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.jupiter.migrationsupport_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.886
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.jupiter.params_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.888
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.vintage.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.892
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.opentest4j_1.2.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.894
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.commons_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.896
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.engine_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.898
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.launcher_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.900
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.runner_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.904
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.suite.api_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.905
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.apiguardian_1.1.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:19.907
+!MESSAGE Installed reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-maven-0.27.0/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.27.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.159
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.commons_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.167
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.jupiter.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.167
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.engine_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.169
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.eclipse.jdt.junit5.runtime_1.0.900.v20200513-0617.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.170
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.runner_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.170
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.jupiter.migrationsupport_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.170
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.jupiter.params_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.171
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.apiguardian_1.1.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.173
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.vintage.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.173
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.eclipse.jdt.junit4.runtime_1.1.1200.v20200214-0716.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.173
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.launcher_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.174
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.jupiter.api_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.174
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.opentest4j_1.2.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.174
+!MESSAGE Started reference:file:/home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1/server/org.junit.platform.suite.api_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.201
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.202
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.project.getSemanticTokensLegend, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.208
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.208
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.208
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.208
+!MESSAGE Non-Static Commands: [vscode.java.test.search.codelens, vscode.java.test.search.items.all, vscode.java.test.search.location, vscode.java.test.search.items, vscode.java.test.get.testpath, vscode.java.test.junit.argument]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.208
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.209
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.209
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.209
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.209
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.209
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.315
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.439
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:20.680
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.241
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2020-12-17 19:27:23.313
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:173)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:57)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:266)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:252)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:998)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$0(ProjectConfigurationManager.java:163)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:146)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:136)
+	at org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:228)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:115)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:104)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:195)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: OK
+Contains: /home/ec2-user overlaps the workspace location: /home/ec2-user/.vscode-server/data/User/workspaceStorage/f50b54075f60da9eb78d7cc8e0cd9e03/redhat.java/jdt_ws
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2020-12-17 19:27:23.314
+!MESSAGE Invalid project description.
+!SUBENTRY 2 unknown 0 0 2020-12-17 19:27:23.314
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2020-12-17 19:27:23.314
+!MESSAGE /home/ec2-user overlaps the workspace location: /home/ec2-user/.vscode-server/data/User/workspaceStorage/f50b54075f60da9eb78d7cc8e0cd9e03/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.358
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.372
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.374
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.423
+!MESSAGE >> New configuration: {java={dependency={showMembers=false, syncWithFolderExplorer=true, autoRefresh=true, refreshDelay=2000.0, packagePresentation=flat}, project={exportJar={targetPath=${workspaceFolder}/${workspaceFolderBasename}.jar}, referencedLibraries=[lib/**/*.jar], importOnFirstTimeStartup=interactive, importHint=true, resourceFilters=[node_modules, .git]}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, numericPrecision=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, onBuildFailureProceed=false, console=integratedTerminal, exceptionBreakpoint={skipClasses=[]}, stepping={skipClasses=[], skipSynthetics=false, skipStaticInitializers=false, skipConstructors=false}, jdwp={limitOfVariablesPerJdwpRequest=100.0, requestTimeout=3000.0}, vmArgs=}}, silentNotification=false, home=/usr/lib/jvm/java-11-amazon-corretto.x86_64, jdt={ls={vmargs=-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null, globalSettings=null}, runtimes=[]}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null, home=null, java={home=null}, offline={enabled=false}, arguments=null, jvmArguments=null, user={home=null}}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false, updateSnapshots=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}}, selectionRange={enabled=true}, showBuildStatusOnStart={enabled=false}, server={launchMode=Hybrid}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, semanticHighlighting={enabled=true}, refactor={renameFromFileExplorer=prompt}, imports={gradle={wrapper={checksums=[]}}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true}, test={report={showAfterExecution=onFailure, position=sideView}, editor={enableShortcuts=true}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}, help={firstView=auto, showReleaseNotes=true}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.425
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.802
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.803
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.820
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.824
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:23.825
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:24.653
+!MESSAGE Reconciled 0. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:25.464
+!MESSAGE >> workspace/executeCommand java.project.getAll
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:25.474
+!MESSAGE >> workspace/executeCommand java.project.getSemanticTokensLegend
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:25.479
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:25.509
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:25.679
+!MESSAGE begin problem for /VisitsServiceClientTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:25.680
+!MESSAGE 1 problems reported for /VisitsServiceClientTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:25.697
+!MESSAGE Validated 1. Took 340 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:27:26.253
+!MESSAGE >> workspace/executeCommand java.project.provideSemanticTokens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:28:44.221
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2020-12-17 19:28:44.224
+!MESSAGE Clearing problems for /VisitsServiceClientTest.java

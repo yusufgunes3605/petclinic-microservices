@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:12 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232272913
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232272887
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:pom\:2.9.7 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/com/fasterxml/jackson/core/jackson-core/2.9.7/jackson-core-2.9.7.pom , ReasonPhrase\:Forbidden.

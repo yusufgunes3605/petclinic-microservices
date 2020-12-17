@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:57 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232317108
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232317098
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.javassist\:javassist\:pom\:3.23.1-GA from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.pom , ReasonPhrase\:Forbidden.

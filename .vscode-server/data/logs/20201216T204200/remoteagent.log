@@ -1,0 +1,40 @@
+[2020-12-16 20:42:00.893] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-16 20:42:00.893] [remoteagent] [info] Extension host agent started.
+[2020-12-16 20:42:01.289] [remoteagent] [info] [127.0.0.1][cf13cdfb][ManagementConnection] New connection established.
+[2020-12-16 20:42:01.293] [remoteagent] [info] [127.0.0.1][6e9bbcde][ExtensionHostConnection] New connection established.
+[2020-12-16 20:42:01.378] [remoteagent] [info] [127.0.0.1][6e9bbcde][ExtensionHostConnection] <3542> Launched Extension Host Process.
+[2020-12-16 20:42:01.607] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-16 20:42:30.145] [remoteagent] [info] [127.0.0.1][6e9bbcde][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 20:42:33.699] [remoteagent] [info] [127.0.0.1][cf13cdfb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 20:42:34.719] [remoteagent] [info] [127.0.0.1][6e9bbcde][ExtensionHostConnection] <3542> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 20:42:34.719] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-16 20:43:19.582] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-16 20:43:19.582] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 20:43:20.304] [remoteagent] [info] [127.0.0.1][234e0c70][ManagementConnection] New connection established.
+[2020-12-16 20:43:20.308] [remoteagent] [info] [127.0.0.1][4b6257e5][ExtensionHostConnection] New connection established.
+[2020-12-16 20:43:20.311] [remoteagent] [info] [127.0.0.1][4b6257e5][ExtensionHostConnection] <3664> Launched Extension Host Process.
+[2020-12-16 20:43:20.685] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-16 20:43:20.689] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ec2-user/.vscode'
+[2020-12-16 20:43:48.119] [remoteagent] [info] [127.0.0.1][4b6257e5][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 20:48:19.583] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-16 20:50:34.635] [remoteagent] [info] Installing extension: ms-python.python
+[2020-12-16 20:50:34.996] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2020-12-16 20:50:37.631] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.ms-python.python-2020.12.424452561: ms-python.python
+[2020-12-16 20:50:37.632] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/ms-python.python-2020.12.424452561
+[2020-12-16 20:50:37.637] [remoteagent] [info] Installation completed. ms-python.python
+[2020-12-16 20:50:37.769] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2020-12-16 20:50:38.129] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2020-12-16 20:50:39.228] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.ms-toolsai.jupyter-2020.12.414227025: ms-toolsai.jupyter
+[2020-12-16 20:50:39.229] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025
+[2020-12-16 20:50:39.234] [remoteagent] [info] Installation completed. ms-toolsai.jupyter
+[2020-12-16 20:50:39.245] [remoteagent] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2020-12-16 20:50:39.249] [remoteagent] [info] Extensions installed successfully: ms-python.python

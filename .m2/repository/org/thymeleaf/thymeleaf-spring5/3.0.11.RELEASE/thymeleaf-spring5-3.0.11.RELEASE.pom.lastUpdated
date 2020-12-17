@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:19 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232279202
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232279174
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.thymeleaf\:thymeleaf-spring5\:pom\:3.0.11.RELEASE from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/thymeleaf/thymeleaf-spring5/3.0.11.RELEASE/thymeleaf-spring5-3.0.11.RELEASE.pom , ReasonPhrase\:Forbidden.

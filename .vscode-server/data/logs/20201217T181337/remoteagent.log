@@ -1,0 +1,167 @@
+[2020-12-17 18:13:37.373] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-17 18:13:37.373] [remoteagent] [info] Extension host agent started.
+[2020-12-17 18:13:41.459] [remoteagent] [info] [127.0.0.1][01820f82][ManagementConnection] New connection established.
+[2020-12-17 18:13:41.462] [remoteagent] [info] [127.0.0.1][cfcf3c27][ExtensionHostConnection] New connection established.
+[2020-12-17 18:13:41.549] [remoteagent] [info] [127.0.0.1][cfcf3c27][ExtensionHostConnection] <3398> Launched Extension Host Process.
+[2020-12-17 18:13:42.013] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-17 18:14:18.487] [remoteagent] [info] [127.0.0.1][01820f82][ManagementConnection] The client has reconnected.
+[2020-12-17 18:14:19.366] [remoteagent] [info] [127.0.0.1][cfcf3c27][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:14:57.751] [remoteagent] [info] [127.0.0.1][cfcf3c27][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:14:58.051] [remoteagent] [info] [127.0.0.1][01820f82][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-17 18:14:59.064] [remoteagent] [info] [127.0.0.1][cfcf3c27][ExtensionHostConnection] <3398> Extension Host Process exited with code: 0, signal: null.
+[2020-12-17 18:14:59.065] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-17 18:16:04.728] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-17 18:16:04.728] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-17 18:16:05.512] [remoteagent] [info] [127.0.0.1][e49efd6d][ManagementConnection] New connection established.
+[2020-12-17 18:16:05.516] [remoteagent] [info] [127.0.0.1][6499f310][ExtensionHostConnection] New connection established.
+[2020-12-17 18:16:05.519] [remoteagent] [info] [127.0.0.1][6499f310][ExtensionHostConnection] <3605> Launched Extension Host Process.
+[2020-12-17 18:16:05.829] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-17 18:16:45.377] [remoteagent] [info] [127.0.0.1][6499f310][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:21:04.729] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-17 18:21:05.830] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid 3493 will be shutdown.
+[2020-12-17 18:23:45.860] [remoteagent] [info] [127.0.0.1][e49efd6d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-17 18:23:46.879] [remoteagent] [info] [127.0.0.1][6499f310][ExtensionHostConnection] <3605> Extension Host Process exited with code: 0, signal: null.
+[2020-12-17 18:23:46.880] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-17 18:24:04.003] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-17 18:24:04.003] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-17 18:24:04.791] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] New connection established.
+[2020-12-17 18:24:04.794] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] <9251> Launched Extension Host Process.
+[2020-12-17 18:24:04.795] [remoteagent] [info] [127.0.0.1][43814353][ManagementConnection] New connection established.
+[2020-12-17 18:24:05.196] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-17 18:24:05.208] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ec2-user/.vscode'
+[2020-12-17 18:24:36.654] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:29:04.004] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-17 18:29:05.197] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid 3628 will be shutdown.
+[2020-12-17 18:41:50.142] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:42:21.586] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:43:17.690] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:43:54.922] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:44:41.188] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:45:45.413] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:45:59.912] [remoteagent] [info] [127.0.0.1][083045a0][ExtensionHostConnection] <9251> Extension Host Process exited with code: 0, signal: null.
+[2020-12-17 18:45:59.912] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-17 18:46:01.964] [remoteagent] [info] [127.0.0.1][43814353][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-17 18:46:52.202] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-17 18:46:52.202] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-17 18:46:53.036] [remoteagent] [info] [127.0.0.1][43814353][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-17 18:46:53.036] [remoteagent] [info] [127.0.0.1][d9ee8464][ManagementConnection] New connection established.
+[2020-12-17 18:46:53.040] [remoteagent] [info] [127.0.0.1][25c16ed2][ExtensionHostConnection] New connection established.
+[2020-12-17 18:46:53.044] [remoteagent] [info] [127.0.0.1][25c16ed2][ExtensionHostConnection] <11782> Launched Extension Host Process.
+[2020-12-17 18:46:53.354] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-17 18:47:24.754] [remoteagent] [info] [127.0.0.1][25c16ed2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:47:27.086] [remoteagent] [info] [127.0.0.1][d9ee8464][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-17 18:47:28.103] [remoteagent] [info] [127.0.0.1][25c16ed2][ExtensionHostConnection] <11782> Extension Host Process exited with code: 0, signal: null.
+[2020-12-17 18:47:28.104] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-17 18:47:28.104] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-17 18:47:38.465] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-17 18:47:38.465] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-17 18:47:39.327] [remoteagent] [info] [127.0.0.1][09cae8a8][ManagementConnection] New connection established.
+[2020-12-17 18:47:39.332] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] New connection established.
+[2020-12-17 18:47:39.336] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] <11892> Launched Extension Host Process.
+[2020-12-17 18:47:39.813] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-17 18:47:39.825] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ec2-user/.vscode'
+[2020-12-17 18:47:40.294] [remoteagent] [info] Replaying 46279 chars and 1 size events.
+[2020-12-17 18:48:16.676] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:48:56.072] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:49:26.534] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:50:03.053] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:50:38.353] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:51:13.370] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:51:53.037] [remoteagent] [info] [127.0.0.1][43814353][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-12-17 18:52:07.077] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 18:52:38.465] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-17 19:01:37.494] [remoteagent] [info] [127.0.0.1][09cae8a8][ManagementConnection] The client has reconnected.
+[2020-12-17 19:01:37.500] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:02:05.078] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:02:33.065] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:03:01.795] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:03:29.957] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:03:59.161] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:04:27.271] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:04:56.695] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:05:27.225] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:05:55.382] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:06:24.186] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:06:53.332] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:07:22.221] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:07:50.868] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:08:19.748] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:08:48.402] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:09:16.643] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:09:45.493] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:10:13.830] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:10:41.995] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:11:11.953] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:11:45.926] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:13:53.675] [remoteagent] [info] [127.0.0.1][4362a0d2][ExtensionHostConnection] <11892> Extension Host Process exited with code: 0, signal: null.
+[2020-12-17 19:13:53.675] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-17 19:13:58.952] [remoteagent] [info] [127.0.0.1][09cae8a8][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-17 19:14:01.949] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-17 19:14:01.949] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-17 19:14:03.016] [remoteagent] [info] [127.0.0.1][09cae8a8][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-17 19:14:03.017] [remoteagent] [info] [127.0.0.1][d5c7f76b][ManagementConnection] New connection established.
+[2020-12-17 19:14:03.031] [remoteagent] [info] [127.0.0.1][12305830][ExtensionHostConnection] New connection established.
+[2020-12-17 19:14:03.080] [remoteagent] [info] [127.0.0.1][12305830][ExtensionHostConnection] <16647> Launched Extension Host Process.
+[2020-12-17 19:14:03.486] [remoteagent] [info] Listing 3 persistent terminals, 3 total terminals
+[2020-12-17 19:14:03.527] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ec2-user/.vscode'
+[2020-12-17 19:14:04.910] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-17 19:14:13.182] [remoteagent] [info] Replaying 46317 chars and 1 size events.
+[2020-12-17 19:14:13.183] [remoteagent] [info] Replaying 2384 chars and 1 size events.
+[2020-12-17 19:14:13.186] [remoteagent] [info] Replaying 1048576 chars and 1 size events.
+[2020-12-17 19:14:48.807] [remoteagent] [info] [127.0.0.1][12305830][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:15:51.551] [remoteagent] [info] [127.0.0.1][12305830][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 19:19:01.950] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-17 19:19:03.016] [remoteagent] [info] [127.0.0.1][09cae8a8][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-12-17 19:26:40.854] [remoteagent] [info] Installing extension: vscjava.vscode-java-pack
+[2020-12-17 19:26:41.024] [remoteagent] [info] Downloaded extension: vscjava.vscode-java-pack undefined
+[2020-12-17 19:26:41.080] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-java-pack-0.12.1: vscjava.vscode-java-pack
+[2020-12-17 19:26:41.080] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-pack-0.12.1
+[2020-12-17 19:26:41.081] [remoteagent] [info] Installation completed. vscjava.vscode-java-pack
+[2020-12-17 19:26:41.172] [remoteagent] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-12-17 19:26:41.172] [remoteagent] [info] Installing extension: redhat.java
+[2020-12-17 19:26:41.172] [remoteagent] [info] Installing extension: vscjava.vscode-java-debug
+[2020-12-17 19:26:41.172] [remoteagent] [info] Installing extension: vscjava.vscode-maven
+[2020-12-17 19:26:41.173] [remoteagent] [info] Installing extension: vscjava.vscode-java-test
+[2020-12-17 19:26:41.173] [remoteagent] [info] Installing extension: vscjava.vscode-java-dependency
+[2020-12-17 19:26:41.367] [remoteagent] [info] Downloaded extension: vscjava.vscode-java-debug undefined
+[2020-12-17 19:26:41.373] [remoteagent] [info] Downloaded extension: vscjava.vscode-java-dependency undefined
+[2020-12-17 19:26:41.560] [remoteagent] [info] Downloaded extension: vscjava.vscode-java-test undefined
+[2020-12-17 19:26:41.856] [remoteagent] [info] Downloaded extension: vscjava.vscode-maven undefined
+[2020-12-17 19:26:41.882] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-java-dependency-0.16.0: vscjava.vscode-java-dependency
+[2020-12-17 19:26:41.883] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-dependency-0.16.0
+[2020-12-17 19:26:41.888] [remoteagent] [info] Installation completed. vscjava.vscode-java-dependency
+[2020-12-17 19:26:41.900] [remoteagent] [info] Extensions installed successfully: vscjava.vscode-java-dependency
+[2020-12-17 19:26:42.098] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-java-debug-0.30.0: vscjava.vscode-java-debug
+[2020-12-17 19:26:42.099] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-debug-0.30.0
+[2020-12-17 19:26:42.107] [remoteagent] [info] Installation completed. vscjava.vscode-java-debug
+[2020-12-17 19:26:42.138] [remoteagent] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2020-12-17 19:26:42.158] [remoteagent] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode undefined
+[2020-12-17 19:26:42.300] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-java-test-0.26.1: vscjava.vscode-java-test
+[2020-12-17 19:26:42.301] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-java-test-0.26.1
+[2020-12-17 19:26:42.306] [remoteagent] [info] Installation completed. vscjava.vscode-java-test
+[2020-12-17 19:26:42.455] [remoteagent] [info] Downloaded extension: redhat.java undefined
+[2020-12-17 19:26:42.891] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.vscjava.vscode-maven-0.27.0: vscjava.vscode-maven
+[2020-12-17 19:26:42.892] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/vscjava.vscode-maven-0.27.0
+[2020-12-17 19:26:42.895] [remoteagent] [info] Installation completed. vscjava.vscode-maven
+[2020-12-17 19:26:42.901] [remoteagent] [info] Extensions installed successfully: vscjava.vscode-maven
+[2020-12-17 19:26:43.287] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.visualstudioexptteam.vscodeintellicode-1.2.10: visualstudioexptteam.vscodeintellicode
+[2020-12-17 19:26:43.287] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-12-17 19:26:43.290] [remoteagent] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-12-17 19:26:43.295] [remoteagent] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-12-17 19:26:43.718] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.redhat.java-0.72.0: redhat.java
+[2020-12-17 19:26:43.718] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/redhat.java-0.72.0
+[2020-12-17 19:26:43.721] [remoteagent] [info] Installation completed. redhat.java
+[2020-12-17 19:26:43.726] [remoteagent] [info] Extensions installed successfully: redhat.java
+[2020-12-17 19:26:43.728] [remoteagent] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2020-12-17 19:26:43.729] [remoteagent] [info] Extensions installed successfully: vscjava.vscode-java-pack
+[2020-12-17 19:28:34.140] [remoteagent] [info] [127.0.0.1][d5c7f76b][ManagementConnection] The client has reconnected.
+[2020-12-17 19:28:46.757] [remoteagent] [info] [127.0.0.1][12305830][ExtensionHostConnection] The client has reconnected.

@@ -1,0 +1,128 @@
+Looking for git in: git
+Using git 2.23.3 from git
+> git rev-parse --git-dir
+Open repository: /home/ec2-user
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse release
+> git rev-parse --symbolic-full-name release@{u}
+> git rev-list --left-right release...refs/remotes/origin/release
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :spring-petclinic-api-gateway/src/test/java/org/springframework/samples/petclinic/api/application/VisitsServiceClientTest.java
+> git ls-files --stage -- /home/ec2-user/spring-petclinic-api-gateway/src/test/java/org/springframework/samples/petclinic/api/application/VisitsServiceClientTest.java
+> git cat-file -s 465ab7b7438ed2b1783b11ba97a772c42c15b688
+> git show --textconv :petclinic-microservices/README.md
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/README.md
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper2.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper2.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/package-with-mvn-wrapper.sh
+> git show --textconv :petclinic-microservices/package-with-mvn-wrapper.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git ls-files --stage -- /home/ec2-user/petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template
+> git show --textconv :petclinic-microservices/Infrastructure/dev-server-for-petclinic-cf-template

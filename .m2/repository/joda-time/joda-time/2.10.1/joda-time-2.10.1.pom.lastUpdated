@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:13 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232273683
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232273671
+http\://repo.spring.io/milestone/.error=Could not transfer artifact joda-time\:joda-time\:pom\:2.10.1 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/joda-time/joda-time/2.10.1/joda-time-2.10.1.pom , ReasonPhrase\:Forbidden.

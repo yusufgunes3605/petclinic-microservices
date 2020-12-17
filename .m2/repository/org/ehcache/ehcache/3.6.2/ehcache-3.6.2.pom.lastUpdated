@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:12:14 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232334078
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232334057
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.ehcache\:ehcache\:pom\:3.6.2 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/ehcache/ehcache/3.6.2/ehcache-3.6.2.pom , ReasonPhrase\:Forbidden.

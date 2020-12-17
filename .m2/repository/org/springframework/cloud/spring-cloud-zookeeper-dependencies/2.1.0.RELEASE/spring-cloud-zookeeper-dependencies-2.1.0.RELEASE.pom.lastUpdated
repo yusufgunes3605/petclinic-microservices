@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:05 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232265570
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232265517
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-zookeeper-dependencies\:pom\:2.1.0.RELEASE from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.1.0.RELEASE/spring-cloud-zookeeper-dependencies-2.1.0.RELEASE.pom , ReasonPhrase\:Forbidden.

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:29 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232289393
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232280851
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.antlr\:stringtemplate\:jar\:3.2.1 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar , ReasonPhrase\:Forbidden.

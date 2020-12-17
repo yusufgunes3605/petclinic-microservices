@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:14:21 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232461740
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232461710
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.webjars\:d3js\:pom\:3.4.11 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/webjars/d3js/3.4.11/d3js-3.4.11.pom , ReasonPhrase\:Forbidden.

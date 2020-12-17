@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:06 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232266202
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232266184
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-gcp-dependencies\:pom\:1.1.0.RELEASE from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-gcp-dependencies/1.1.0.RELEASE/spring-cloud-gcp-dependencies-1.1.0.RELEASE.pom , ReasonPhrase\:Forbidden.

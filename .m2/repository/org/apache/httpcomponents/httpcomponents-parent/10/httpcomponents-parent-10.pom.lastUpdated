@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 17 19:11:15 UTC 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1608232275283
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1608232275248
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.apache.httpcomponents\:httpcomponents-parent\:pom\:10 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Access denied to\: http\://repo.spring.io/milestone/org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10.pom , ReasonPhrase\:Forbidden.
